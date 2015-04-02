@@ -1,0 +1,820 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"obj",
+				"object_vars"
+			],
+			[
+				"array_ke",
+				"array_key_exists"
+			],
+			[
+				"find_by_",
+				"find_by_sql"
+			],
+			[
+				"password",
+				"password"
+			],
+			[
+				"username",
+				"userName"
+			],
+			[
+				"result",
+				"result_set"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"method",
+				"method_test"
+			],
+			[
+				"se",
+				"self"
+			],
+			[
+				"stat",
+				"static"
+			],
+			[
+				"A",
+				"hw_Array2Objrec"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"class",
+				"class	class …"
+			],
+			[
+				"Example",
+				"Example"
+			],
+			[
+				"show_",
+				"show_abc"
+			],
+			[
+				"wheel",
+				"wheelsdoors"
+			],
+			[
+				"cl",
+				"class	class …"
+			],
+			[
+				"get_cla",
+				"get_class_vars"
+			],
+			[
+				"get_cl",
+				"get_class_methods"
+			],
+			[
+				"function",
+				"Function"
+			],
+			[
+				"uns",
+				"unset"
+			],
+			[
+				"REQUEST_METHOD",
+				"http_request_method_exists"
+			],
+			[
+				"Details",
+				"details"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"if",
+				"if	if …"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"imag",
+				"image"
+			],
+			[
+				"quantity",
+				"quantity"
+			],
+			[
+				"search",
+				"searchterm"
+			],
+			[
+				"feat",
+				"features"
+			],
+			[
+				"mont",
+				"monthname2"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"m",
+				"monthNumber"
+			],
+			[
+				"Al",
+				"alternativeText"
+			],
+			[
+				"date_def",
+				"date_default_timezone_set"
+			],
+			[
+				"int",
+				"intAnswer"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"str",
+				"strDescription"
+			],
+			[
+				"str_re",
+				"str_replace"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/wamp/www/photo_gallery/public/index.php",
+			"settings":
+			{
+				"buffer_size": 422,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/photo_gallery/includes/user.php",
+			"settings":
+			{
+				"buffer_size": 1373,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/photo_gallery/includes/functions.php",
+			"settings":
+			{
+				"buffer_size": 528,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/photo_gallery/public/stylesheets/main.css",
+			"settings":
+			{
+				"buffer_size": 842,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/photo_gallery/includes/database.php",
+			"settings":
+			{
+				"buffer_size": 1751,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/wamp/www/photo_gallery/includes/config.php",
+			"settings":
+			{
+				"buffer_size": 285,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"php	",
+				"Set Syntax: PHP"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"readme",
+				"ReadmePlease"
+			],
+			[
+				"read",
+				"ReadmePlease"
+			],
+			[
+				"lin",
+				"Line Ending: Windows"
+			],
+			[
+				"line",
+				"Line Ending: Unix"
+			],
+			[
+				"inSTALL",
+				"Package Control: Install Package"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"java	",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"package control in",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 498.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/wamp/www/photo_gallery",
+		"/C/wamp/www/photo_gallery/includes",
+		"/C/wamp/www/photo_gallery/public",
+		"/C/wamp/www/photo_gallery/public/stylesheets"
+	],
+	"file_history":
+	[
+		"/C/Users/AvantLink/Desktop/NoTax-GoogleBaseFeed (5).xml",
+		"/C/wamp/bin/apache/apache2.4.9/bin/php.ini",
+		"/C/wamp/www/php_sandbox/variable_variables.php",
+		"/C/wamp/www/send_message.php",
+		"/C/wamp/www/exercises/ch07/07_06/index.php",
+		"/C/wamp/www/exercises/ch07/07_06/order.php",
+		"/C/wamp/www/exercises/ch07/07_05/order.php",
+		"/C/wamp/www/exercises/ch07/07_05/confirm.php",
+		"/C/wamp/www/exercises/ch07/07_05/bouquet.php",
+		"/C/wamp/www/exercises/ch07/07_05/order_helpers.php",
+		"/C/wamp/www/exercises/ch07/07_05/includes/order_helpers.php",
+		"/C/wamp/www/exercises/ch07/07_05/.htaccess",
+		"/C/wamp/www/exercises/ch07/07_04/failed_stream.php",
+		"/C/wamp/www/exercises/ch07/07_03/parse_errors.php",
+		"/C/wamp/www/exercises/ch07/07_02/incomplete.php",
+		"/C/wamp/www/exercises/ch07/07_02/.htaccess",
+		"/C/wamp/www/exercises/ch07/07_02/blank.php",
+		"/C/wamp/www/exercises/ch07/07_01/.htaccess",
+		"/C/wamp/www/exercises/ch07/07_01/.user.ini",
+		"/C/wamp/www/handp_check/06_07/mixed/mixed.php",
+		"/C/wamp/www/handp_check/06_09/mixed/details.php",
+		"/C/wamp/www/handp_check/06_09/mixed/mixed.php",
+		"/C/wamp/www/handp_check/06_08/mixed/details.php",
+		"/C/Users/AvantLink/Desktop/puravidatest2.html",
+		"/C/wamp/www/handp_check/06_06/mixed/mixed.php",
+		"/C/wamp/www/handp_check/06_05/mixed/mixed.php",
+		"/C/wamp/www/exercises/ch06/06_05/modulo_01.php",
+		"/C/wamp/www/handp_check/06_05/mixed.php",
+		"/C/wamp/www/handp_check/06_04/mixed/mixed.php",
+		"/C/wamp/www/handp_check/06_03/mixed/mixed.php",
+		"/C/wamp/www/handp_check/06_02/mixed/mixed.php",
+		"/C/wamp/www/handp_check/05_13/bouquet.php",
+		"/C/wamp/www/handp_check/05_13/order.php",
+		"/C/wamp/www/handp_check/05_12/order.php",
+		"/C/wamp/www/handp_check/05_12/bouquet.php",
+		"/C/wamp/www/handp_check/05_10/order.php",
+		"/C/wamp/www/exercises/ch04/04_01/arrays.php",
+		"/C/wamp/www/exercises/ch04/04_02/examine_array.php",
+		"/C/wamp/www/handp_check/05_09/bouquet.php",
+		"/C/wamp/www/handp_check/05_09/order.php",
+		"/C/wamp/www/handp_check/05_08/order.php",
+		"/C/wamp/www/handp_check/05_07/order.php",
+		"/C/wamp/www/handp_check/05_06/prices.txt",
+		"/C/wamp/www/handp_check/05_06/order.php",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/wamp/www/handp_check/04_03/index.php",
+		"/C/wamp/www/handp_check/04_11/bouquet.php",
+		"/C/wamp/www/handp_check/04_11/order.php",
+		"/C/wamp/www/exercises/ch05/05_05/substring.php",
+		"/C/wamp/www/handp_check/05_04/order.php",
+		"/C/Users/AvantLink/AppData/Local/Temp/Tags_BreezeSkiRentals_Affiliate_14-15_TM_VRR_BreezeSkiRentals.xls",
+		"/C/wamp/www/exercises/ch04/04_09/in_array.php",
+		"/C/wamp/www/handp_check/04_10/index.php",
+		"/C/wamp/www/exercises/ch05/05_02/get.php",
+		"/C/wamp/www/handp_check/04_10/arrays.txt",
+		"/C/wamp/www/exercises/ch05/05_01/post.php",
+		"/C/wamp/www/exercises/ch04/04_08/foreach_assoc.php",
+		"/C/wamp/www/exercises/ch04/04_06/foreach_key.php",
+		"/C/wamp/www/handp_check/04_03/alternate.txt",
+		"/C/wamp/www/exercises/ch04/04_05/join_array.php",
+		"/C/wamp/www/exercises/ch04/04_07/associative.php",
+		"/C/wamp/www/handp_check/03_05/index.php",
+		"/C/wamp/www/handp_check/03_04/includes/footer.php",
+		"/C/wamp/www/handp_check/03_04/includes/pagetop.php",
+		"/C/wamp/www/handp_check/handp_start/includes/pagetop.php",
+		"/C/wamp/www/exercises/ch03/03_02/date_parts.php",
+		"/C/wamp/www/exercises/ch03/03_03/timezone.php",
+		"/C/wamp/www/exercises/ch01/01_06/functions.php",
+		"/C/wamp/www/exercises/ch01/01_07/comments.php",
+		"/C/wamp/www/exercises/ch02/02_01/page01.php",
+		"/C/wamp/www/exercises/ch02/02_01/page02.php",
+		"/C/wamp/www/exercises/styles/exercises.css",
+		"/C/wamp/www/exercises/ch02/02_02/include.php",
+		"/C/wamp/www/exercises/ch02/02_02/includes/list.php",
+		"/C/wamp/www/handp_check/handp_start/arrangements.php",
+		"/C/wamp/www/handp_check/02_04/care/orchids.php",
+		"/C/wamp/www/handp_check/handp_start/includes/header.php",
+		"/C/wamp/www/handp_check/handp_start/includes/footer.php",
+		"/C/wamp/www/exercises/ch02/02_02/require.php",
+		"/C/wamp/www/handp_check/02_04/includes/pagetop.php",
+		"/C/wamp/www/exercises/ch02/02_01/includes/external.php",
+		"/C/wamp/www/exercises/ch01/01_04/variables.php",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/wamp/www/exercises/ch01/01_01/phptime.php",
+		"/C/wamp/www/exercises/ch01/01_01/jstime.html",
+		"/C/wamp/www/exercises/ch01/01_01/form.php",
+		"/C/wamp/www/exercises/ch01/01_01/embed.php",
+		"/C/wamp/www/exercises/ch01/01_02/copyright.php",
+		"/C/Users/AvantLink/Desktop/carhartt.html",
+		"/Y/calico/tests/wolfgang.xml",
+		"/Y/calico/logic/GoogleVariantProductDatafeedLoad-RSS.xsl",
+		"/Y/calico/tests/XslTransform.php",
+		"/Y/calico/tests/transformed_wolfgang_results.txt",
+		"/Y/calico/tests/jane.xml",
+		"/C/Users/AvantLink/Desktop/winmail.dat",
+		"/C/Users/AvantLink/Desktop/Carhartt",
+		"/Y/http/avant/wordpress/wp-content/themes/avantlink/css/style1.css",
+		"/C/SandBox/test.html",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/readme.md",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-macro",
+		"/C/Users/AvantLink/Documents/Exercise Files/Chap08/sql-chap08.txt",
+		"/Y/calico/startup",
+		"/Y/http/avant/wordpress/wp-admin/network/site-info.php",
+		"/Y/http/avantmetrics/webfontkit-Droid Serif/DroidSerifItalic-demo.html",
+		"/Y/http/avant/wordpress/wp-includes/theme-compat/sidebar.php",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/Y/http/avant/wordpress/wp-content/themes/avantlink/js/jquery.js",
+		"/Y/http/avant/wordpress/wp-content/themes/avantlink/js/jquery.tools.min.js",
+		"/Y/http/avant_utils/wordpress_plugin/avantlink-wp/js/jquery-1.4.4.min.js",
+		"/Y/http/avant/php/lib/dompdf/www/jquery-1.4.2.js",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Packages/LineEndings/readme.md",
+		"/Y/http/avant/wordpress/wp-content/themes/avantlink/css/border-radius.htc",
+		"/Y/http/avant/wordpress/wp-content/index.php",
+		"/Y/http/avant/php/DaoAv/DaoAvMerchantProvider.php",
+		"/C/Users/AvantLink/AppData/Roaming/Sublime Text 3/Installed Packages/LineEndings.sublime-package",
+		"/Y/http/avant/admin/account_login_edit.php",
+		"/C/Users/AvantLink/Documents/Exercise Files/SQL/album-mysql.sql",
+		"/Y/http/avant/ptcfp.php",
+		"/Y/http/avant/php/DaoAv/DaoAvMerchantPrepay.php",
+		"/Y/http/avant/php/DaoAv/DaoAvMerchantParent.php",
+		"/Y/http/avant/admin/merchants.php",
+		"/Y/http/avant/admin/merchant_email_review.php",
+		"/Y/http/avant/admin/merchant_ebp_edit.php",
+		"/Y/http/avant/mobile.php"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"body",
+			"T",
+			"	",
+			"avmws",
+			"It's raini",
+			"div",
+			"$image",
+			"$quantity",
+			"$color",
+			"	",
+			"color_",
+			"	",
+			"timezone",
+			"h2",
+			"converted",
+			"Converted",
+			"converted",
+			"($",
+			"	",
+			"stock",
+			"f12",
+			"color",
+			"input",
+			"Select",
+			"select",
+			"strIsDisabled",
+			">\n",
+			"strAccountLoginForm",
+			"arrMessages",
+			"strCookieData",
+			"\n	$blnNewCustomer = true;\n",
+			"const",
+			"{\n	const CUSTOM_TRACKING_CODE_DEFAULT_MAX_LENGTH = 32;	// The default maximum length of custom tracking code values, i.e. the length applicable to most affiliates\n",
+			"strUrl",
+			"\n			",
+			"br",
+			"name",
+			"$strAccountLoginForm = getAccountLoginForm($lngLoginId);\n\n",
+			"class",
+			"echo",
+			"head",
+			"echo"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"|",
+			"$_SESSION['$image']",
+			"$_SESSION['$quantity']",
+			"$_SESSION['$color']",
+			"|",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/wamp/www/photo_gallery/public/index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 422,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								422,
+								422
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/wamp/www/photo_gallery/includes/user.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1373,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								822,
+								822
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 239.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/C/wamp/www/photo_gallery/includes/functions.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 528,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								528,
+								528
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/wamp/www/photo_gallery/public/stylesheets/main.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 842,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								842,
+								842
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/wamp/www/photo_gallery/includes/database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1751,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1155,
+								1155
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 378.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/C/wamp/www/photo_gallery/includes/config.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 285,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 228.0
+	},
+	"project": "photo_gallery.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"merchantprovider",
+				"http\\avant\\php\\DaoAv\\DaoAvMerchantProvider.php"
+			],
+			[
+				"ptcfp",
+				"http\\avant\\ptcfp.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"Y:\\AvantLinkProject.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 375.0,
+		"selected_items":
+		[
+		],
+		"width": 554.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
