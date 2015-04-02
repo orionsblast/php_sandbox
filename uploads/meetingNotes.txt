@@ -1,0 +1,6 @@
+Meeting Notes
+Change emails to integration.
+
+Ensure that individual (Retailer, Referral Partner, or internal) is included in sprint.ly for their requests. This is so we can respond to them when finished.
+
+Look at the datafeed notification that go out.
