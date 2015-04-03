@@ -49,4 +49,6 @@ $example = new Example;
 
 echo $example->hello();
 
+//Just a comment.
+
 ?>
