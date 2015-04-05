@@ -22,4 +22,7 @@ echo $example->get_a();
 
 $example->set_a('2');
 echo $example->get_a();
+
+//This is an add.
 ?>
+
